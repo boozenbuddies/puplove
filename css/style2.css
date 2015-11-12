@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background: #f4f7f0;
+    color: black;
+    font-size: 24px;
+    font-family: 'Belleza', sans-serif;
+}
+
+nav {
+    float: center;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    display: block;
+    top: 20px;
+    width: 100%;
+    padding: .5em;
+    text-align: center;
+    text-transform: uppercase;
+    width: 664px;  
+}
+
+#logo {
+    float: right;
+    clear: both;
+    border-radius: 5px;
+    margin: auto;
+}
+
+#headertext {
+    float: center;
+}
+
+#slogan {
+    display: block;
+    color: #7A7A7A;
+    font-family: 'Abril Fatface', cursive;
+    font-variant: caps;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 52px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 1.8em;
+  display: inline-block;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    -moz-box-shadow: 3px 3px 4px 5px #000014;
+    -webkit-box-shadow: 3px 3px 4px 5px #000014;
+    box-shadow: 3px 3px 4px 5px #000014;
+}
+
